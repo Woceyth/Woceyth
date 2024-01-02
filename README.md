@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Woceyth
 - 👀 I’m interested in ... Games!
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Game Design
 - 💞️ I’m looking to collaborate on ... Games!
 - 📫 How to reach me ...
 
